@@ -1,0 +1,10 @@
+site_name: 小丸搜题(beta1.0)
+
+nav: 
+  - 简介: index2.md
+  - 最近文档: 1st.md
+  - 我的收藏: 2nd.md
+  - 我的回答: 3rd.md
+  - 回收站: 4th.md
+theme:
+  name: 'material'
