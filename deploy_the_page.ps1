@@ -9,3 +9,5 @@ git commit -m "first commit"
 git push origin main
 
 mkdocs gh-deploy
+
+Pause
